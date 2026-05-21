@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+<img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%" />
 
 </div>
 
+<h1 align="center">🌌 XONE 🌌</h1>
+
+<h3 align="center">
+Backend Developer Enthusiast • Information Systems Student • Tech Explorer
+</h3>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Hi+There+👋;I'm+Fatawa+Imam+Al+Muftin;Also+Known+As+XONE;Backend+Developer+Enthusiast+🚀;Node.js+%7C+PostgreSQL+%7C+JavaScript;Building+My+Future+One+Project+at+a+Time" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Backend+Developer+Enthusiast;Node.js+%7C+JavaScript+%7C+PostgreSQL;Building+Projects+and+Improving+Everyday;Consistency+is+Power+⚡;Welcome+to+My+GitHub+Profile" />
 
 </div>
 
@@ -14,7 +20,11 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=fatawaimamalmuftin&label=Profile+Views&color=6A0DAD&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=fatawaimamalmuftin&label=PROFILE+VIEWS&color=6A0DAD&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/fatawaimamalmuftin?color=6A0DAD&label=Followers&logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/fatawaimamalmuftin?color=8A2BE2&label=Stars&logo=github&style=for-the-badge"/>
 
 </div>
 
@@ -22,12 +32,175 @@
 
 # 💫 About Me
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+```yaml
+name: Fatawa Imam Al Muftin
+nickname: XONE
+location: Indonesia
+major: Information Systems
+focus: Backend Development
+currently_learning:
+  - Node.js
+  - PostgreSQL
+  - Backend Architecture
+  - Docker
+life_motto: "Build. Learn. Improve. Repeat."
+```
+
+---
+
+# ⚡ Personality & Mindset
+
 ```txt
-🎮 Nickname      : XONE
-📚 Major         : Information Systems
-💻 Focus         : Backend Development
-🚀 Currently     : Learning Node.js & Modern Backend
-🧠 Personality   : Curious, Fast Learner, Multi Skill
-⚡ Goal          : Becoming Professional Backend Engineer
-🌌 Aura          : Deep Purple & Dark Mode
-📍 Location      : Indonesia
+🧠 Curious Person
+🔥 Tech Explorer
+🛠 Multi Skill Learner
+🎯 Consistency > Motivation
+☕ Night Coding Enjoyer
+🚀 Self Taught Mentality
+🌌 Deep Purple Aesthetic
+```
+
+```javascript
+while(alive){
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mysql,postgresql,git,github,vscode,linux,docker" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatawaimamalmuftin&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatawaimamalmuftin&layout=compact&theme=radical"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatawaimamalmuftin&theme=radical"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 Current Journey
+
+| Focus | Status |
+|---|---|
+| Backend Development | 🔥 Improving |
+| Node.js Ecosystem | ⚡ Learning |
+| PostgreSQL Database | 🚀 Exploring |
+| Clean Code | 🧠 Practicing |
+| Real Projects | 💻 Building |
+
+---
+
+# 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 AI News Summarizer
+AI-powered project for summarizing news articles quickly.
+
+</td>
+
+<td width="50%">
+
+### ☕ Terminal Cafe App
+CLI-based ordering system using Node.js.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌡 Temperature Converter CLI
+Interactive temperature converter terminal app.
+
+</td>
+
+<td width="50%">
+
+### 🏥 Social Welfare Information System
+Information system project for LKSA management.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌌 Developer Quote
+
+<div align="center">
+
+> ### “The best way to predict the future is to build it.”
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:muftinmarmut@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/fatawaimamalmuftin">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
+
+</div>
+
+<h3 align="center">
+🌌 XONE — Backend Developer in Progress 🚀
+</h3>
