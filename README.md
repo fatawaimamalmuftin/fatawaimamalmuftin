@@ -85,9 +85,9 @@ while(alive){
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatawaimamalmuftin&show_icons=true&theme=radical"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatawaimamalmuftin&show_icons=true&theme=midnight-purple" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatawaimamalmuftin&layout=compact&theme=radical"/>
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fatawaimamalmuftin&layout=compact&theme=midnight-purple" />
 
 </div>
 
