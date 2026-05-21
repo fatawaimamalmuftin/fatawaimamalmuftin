@@ -185,8 +185,8 @@ Information system project for LKSA management.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://skillicons.dev/icons?i=[linkedin](https://www.linkedin.com/in/fatawaimamalmuftin/)" />
+<a href="https://www.linkedin.com/in/fatawaimamalmuftin/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </div>
