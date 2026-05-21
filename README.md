@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFlbHJnZ3hnbTNiNGhwM3FsNWNmb3lvZWY4aXVxZ3N0ajRyN3pndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8pzzC73HBeKmQ/giphy.gif" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFlbHJnZ3hnbTNiNGhwM3FsNWNmb3lvZWY4aXVxZ3N0ajRyN3pndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8pzzC73HBeKmQ/giphy.gif" width="80%" />
 
 </div>
 
@@ -186,7 +186,7 @@ Information system project for LKSA management.
 </a>
 
 <a href="https://www.linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=[linkedin](https://www.linkedin.com/in/fatawaimamalmuftin/)" />
 </a>
 
 </div>
