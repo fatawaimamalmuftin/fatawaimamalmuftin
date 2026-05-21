@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%" />
+<img src="https://media.tenor.com/6ZUs58774QcAAAAd/asta-black-clover.gif" width="100%" />
 
 </div>
 
@@ -31,8 +31,6 @@ Backend Developer Enthusiast • Information Systems Student • Tech Explorer
 ---
 
 # 💫 About Me
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ```yaml
 name: Fatawa Imam Al Muftin
