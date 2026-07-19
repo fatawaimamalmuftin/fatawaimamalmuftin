@@ -177,7 +177,7 @@ Information system project for LKSA management.
 
 <div align="center">
 
-<a href="mailto:muftinmarmut@gmail.com">
+<a href="mailto:fatawaimamalmuftin17@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
