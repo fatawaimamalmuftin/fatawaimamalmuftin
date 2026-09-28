@@ -81,18 +81,6 @@ while(alive){
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatawaimamalmuftin&show_icons=true&theme=midnight-purple" />
-
-<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fatawaimamalmuftin&layout=compact&theme=midnight-purple" />
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
